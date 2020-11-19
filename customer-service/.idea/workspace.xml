@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e211e529-ed77-4951-9221-f1783e55ce22" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="docker-desktop" />
+    <option name="namespace" value="default" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1kDHA1SmZF9xbrM0FKAzEettZvr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.doruk.customer.listener" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn clean install " />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.CustomerServiceApplication">
+    <configuration name="CustomerServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.doruk.customer.CustomerServiceApplication" />
+      <module name="customer-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.doruk.customer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="customer-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.doruk.customer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.doruk.customer.CustomerServiceApplication" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="customer-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.doruk.customer.CustomerServiceApplication" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CustomerServiceApplication" />
+        <item itemvalue="Spring Boot.CustomerServiceApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e211e529-ed77-4951-9221-f1783e55ce22" name="Default Changelist" comment="" />
+      <created>1605228095437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605228095437</updated>
+      <workItem from="1605228096617" duration="831000" />
+      <workItem from="1605229126430" duration="13406000" />
+      <workItem from="1605638790561" duration="491000" />
+      <workItem from="1605651339801" duration="2000" />
+      <workItem from="1605652285879" duration="210000" />
+      <workItem from="1605652796465" duration="72000" />
+      <workItem from="1605652893652" duration="105000" />
+      <workItem from="1605653018975" duration="136000" />
+      <workItem from="1605653167140" duration="1248000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="23" width="1024" height="834" key="#Project_Structure" timestamp="1605652934988">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="208" y="23" width="1024" height="834" key="#Project_Structure/0.23.1440.834/-1920.-656.1920.1057@0.23.1440.834" timestamp="1605228542558" />
+    <state x="208" y="23" key="#Project_Structure/0.23.1440.834@0.23.1440.834" timestamp="1605652934988" />
+    <state x="184" y="102" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605228768629">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="184" y="102" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.834/-1920.-656.1920.1057@0.23.1440.834" timestamp="1605228768629" />
+    <state x="533" y="150" key="#com.intellij.ide.util.MemberChooser" timestamp="1605376233185">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="533" y="150" key="#com.intellij.ide.util.MemberChooser/0.23.1440.834/-1920.-656.1920.1057@0.23.1440.834" timestamp="1605376233185" />
+    <state x="457" y="237" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1605228741807">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="457" y="237" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.834/-1920.-656.1920.1057@0.23.1440.834" timestamp="1605228741807" />
+    <state width="699" height="211" key="GridCell.Tab.0.bottom" timestamp="1605652998086">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.0.bottom/0.23.1440.834/-1920.-656.1920.1057@0.23.1440.834" timestamp="1605508352470" />
+    <state width="699" height="211" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1605652998086" />
+    <state width="699" height="211" key="GridCell.Tab.0.center" timestamp="1605652998086">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.0.center/0.23.1440.834/-1920.-656.1920.1057@0.23.1440.834" timestamp="1605508352470" />
+    <state width="699" height="211" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1605652998086" />
+    <state width="699" height="211" key="GridCell.Tab.0.left" timestamp="1605652998085">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.0.left/0.23.1440.834/-1920.-656.1920.1057@0.23.1440.834" timestamp="1605508352469" />
+    <state width="699" height="211" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1605652998085" />
+    <state width="699" height="211" key="GridCell.Tab.0.right" timestamp="1605652998086">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.0.right/0.23.1440.834/-1920.-656.1920.1057@0.23.1440.834" timestamp="1605508352470" />
+    <state width="699" height="211" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1605652998086" />
+    <state width="1398" height="262" key="GridCell.Tab.1.bottom" timestamp="1605508352473">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.1.bottom/0.23.1440.834/-1920.-656.1920.1057@0.23.1440.834" timestamp="1605508352473" />
+    <state width="1398" height="262" key="GridCell.Tab.1.center" timestamp="1605508352471">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.1.center/0.23.1440.834/-1920.-656.1920.1057@0.23.1440.834" timestamp="1605508352471" />
+    <state width="1398" height="262" key="GridCell.Tab.1.left" timestamp="1605508352471">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.1.left/0.23.1440.834/-1920.-656.1920.1057@0.23.1440.834" timestamp="1605508352471" />
+    <state width="1398" height="262" key="GridCell.Tab.1.right" timestamp="1605508352473">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.1.right/0.23.1440.834/-1920.-656.1920.1057@0.23.1440.834" timestamp="1605508352473" />
+    <state width="1398" height="262" key="GridCell.Tab.2.bottom" timestamp="1605379886379">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.2.bottom/0.23.1440.834/-1920.-656.1920.1057@0.23.1440.834" timestamp="1605379886379" />
+    <state width="1398" height="262" key="GridCell.Tab.2.center" timestamp="1605379886379">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.2.center/0.23.1440.834/-1920.-656.1920.1057@0.23.1440.834" timestamp="1605379886379" />
+    <state width="1398" height="262" key="GridCell.Tab.2.left" timestamp="1605379886378">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.2.left/0.23.1440.834/-1920.-656.1920.1057@0.23.1440.834" timestamp="1605379886378" />
+    <state width="1398" height="262" key="GridCell.Tab.2.right" timestamp="1605379886379">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.2.right/0.23.1440.834/-1920.-656.1920.1057@0.23.1440.834" timestamp="1605379886379" />
+    <state x="208" y="23" width="1024" height="834" key="SettingsEditor" timestamp="1605228812226">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="208" y="23" width="1024" height="834" key="SettingsEditor/0.23.1440.834/-1920.-656.1920.1057@0.23.1440.834" timestamp="1605228812226" />
+    <state x="385" y="200" width="670" height="675" key="run.anything.popup" timestamp="1605652944561">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="385" y="200" width="670" height="675" key="run.anything.popup/0.23.1440.834/-1920.-656.1920.1057@0.23.1440.834" timestamp="1605229141899" />
+    <state x="385" y="200" width="670" height="675" key="run.anything.popup/0.23.1440.834@0.23.1440.834" timestamp="1605652944561" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/doruk/customer/infrastructure/AddressServiceGateway.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/doruk/customer/infrastructure/AddressServiceGateway.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/doruk/customer/domain/CustomerServiceImpl.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/doruk/customer/domain/CustomerServiceImpl.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/doruk/customer/infrastructure/redis/DefaultRedisRepository.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/doruk/customer/domain/CustomerServiceImpl.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/doruk/customer/domain/CustomerServiceImpl.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

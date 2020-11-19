@@ -1,0 +1,15 @@
+/Users/dosu/caching-eda-example/customer-service/src/main/java/com/doruk/customer/infrastructure/redis/DefaultRedisRepository.java
+/Users/dosu/caching-eda-example/customer-service/src/main/java/com/doruk/customer/CustomerServiceApplication.java
+/Users/dosu/caching-eda-example/customer-service/src/main/java/com/doruk/customer/infrastructure/AddressDto.java
+/Users/dosu/caching-eda-example/customer-service/src/main/java/com/doruk/customer/controller/CustomerService.java
+/Users/dosu/caching-eda-example/customer-service/src/main/java/com/doruk/customer/infrastructure/redis/RedisConfiguration.java
+/Users/dosu/caching-eda-example/customer-service/src/main/java/com/doruk/customer/listener/EventListener.java
+/Users/dosu/caching-eda-example/customer-service/src/main/java/com/doruk/customer/infrastructure/AddressServiceConfiguration.java
+/Users/dosu/caching-eda-example/customer-service/src/main/java/com/doruk/customer/domain/AddressService.java
+/Users/dosu/caching-eda-example/customer-service/src/main/java/com/doruk/customer/domain/CustomerInformation.java
+/Users/dosu/caching-eda-example/customer-service/src/main/java/com/doruk/customer/domain/RedisRepository.java
+/Users/dosu/caching-eda-example/customer-service/src/main/java/com/doruk/customer/controller/CustomerController.java
+/Users/dosu/caching-eda-example/customer-service/src/main/java/com/doruk/customer/domain/Address.java
+/Users/dosu/caching-eda-example/customer-service/src/main/java/com/doruk/customer/domain/CustomerServiceImpl.java
+/Users/dosu/caching-eda-example/customer-service/src/main/java/com/doruk/customer/listener/ChangedModel.java
+/Users/dosu/caching-eda-example/customer-service/src/main/java/com/doruk/customer/infrastructure/AddressServiceGateway.java

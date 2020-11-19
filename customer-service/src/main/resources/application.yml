@@ -1,0 +1,25 @@
+spring:
+  application:
+    name: customer-service-local
+  cloud:
+    stream:
+      bindings:
+        input:
+          destination: addressChangeTopic
+          content-type: application/json
+      kafka:
+        binder:
+          zkNodes: localhost
+          brokers: localhost
+
+server:
+  port: 4567
+  tomcat:
+    max-threads: 5
+
+address-service:
+  url: http://localhost:4568
+
+redis:
+  host: localhost
+  port: 6379
